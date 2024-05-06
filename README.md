@@ -1,5 +1,6 @@
-### Ngx-Admin Angular 14 application from akveo.com
+intall node 
 
-This is modified and more lightweight version of original application to practice UI Automation with Playwright.
-
-The original repo is here: https://github.com/akveo/ngx-admin
+Run the application:
+`npm install --force`
+`npm start`
+open your browser on: `http://localhost:4200`
